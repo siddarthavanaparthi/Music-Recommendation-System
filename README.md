@@ -64,7 +64,7 @@ This project is a lightweight yet powerful **Flask-based web app** that recommen
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/Abhinayana16/music-recommendation-system.git
+git clone https://github.com/siddarthavanaparthi/Music-Recommendation-System.git
 cd music-recommendation-system
 
 # 2. (Optional) Create a virtual environment
